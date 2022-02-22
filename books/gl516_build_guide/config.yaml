@@ -1,9 +1,5 @@
-title: ""
-summary: ""
-topics: []
-published: false
+title: "GL516 互換PCB共通ビルドガイド"
+summary: "65%サイズの汎用ケース「GL516」互換PCBを組み立てるためのビルドガイドです。"
+topics: ["自作キーボード","ハードウェア","keyboard"]
+published: True
 price: 0 # 有料の場合200〜5000
-# 本に含めるチャプターを順番に並べましょう
-chapters:
-  - example1
-  - example2
